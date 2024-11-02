@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eforaijo.github.io/MVZ/sitemap_index.txt
+Sitemap: https://eforaijo.github.io/TVv/sitemap_index.txt
+Sitemap: https://eforaijo.github.io/nKV/sitemap_index.txt
+Sitemap: https://eforaijo.github.io/xTj/sitemap_index.txt
